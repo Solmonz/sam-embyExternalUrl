@@ -12,7 +12,7 @@
 
 先下载脚本:
 ```bash
-wget https://github.com/yuxingxu/sam-embyExternalUrl/releases/download/v0.0.1/addExternalUrl.tar.gz && mkdir -p ~/embyExternalUrl && tar -xzvf ./addExternalUrl.tar.gz -C ~/embyExternalUrl && cd ~/embyExternalUrl
+wget https://github.com/Solmonz/sam-embyExternalUrl/releases/download/v0.0.1/addExternalUrl.tar.gz && mkdir -p ~/embyExternalUrl && tar -xzvf ./addExternalUrl.tar.gz -C ~/embyExternalUrl && cd ~/embyExternalUrl
 ```
 
 然后看情况修改externalUrl.js文件里面的serverAddr
