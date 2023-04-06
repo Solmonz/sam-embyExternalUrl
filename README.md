@@ -4,7 +4,7 @@
 
 通过nginx的njs模块运行js脚本,在emby视频的外部链接处添加调用外部播放器链接，所有emby官方客户端可用
 
-![](https://raw.githubusercontent.com/bpking1/pics/main/img/Screenshot%202023-02-06%20191721.png)
+![](https://github.com/Solmonz/sam-embyExternalUrl/blob/32c01ea2541f3605771c8330ce2853b1fce9b0f2/emby.png)
 
 使用方法:
 
