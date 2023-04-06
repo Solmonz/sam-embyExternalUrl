@@ -12,7 +12,7 @@
 
 先下载脚本:
 ```bash
-wget https://github.com/bpking1/embyExternalUrl/releases/download/v0.0.1/addExternalUrl.tar.gz && mkdir -p ~/embyExternalUrl && tar -xzvf ./addExternalUrl.tar.gz -C ~/embyExternalUrl && cd ~/embyExternalUrl
+wget https://github.com/yuxingxu/sam-embyExternalUrl/releases/download/v0.0.1/addExternalUrl.tar.gz && mkdir -p ~/embyExternalUrl && tar -xzvf ./addExternalUrl.tar.gz -C ~/embyExternalUrl && cd ~/embyExternalUrl
 ```
 
 然后看情况修改externalUrl.js文件里面的serverAddr
@@ -37,5 +37,5 @@ docker logs -f  embyUrl-nginx 2>&1 | grep error
 
 [油猴地址](https://greasyfork.org/en/scripts/459297-embylaunchpotplayer)
 
-
+网络收集 如有侵犯 立即删除
 
